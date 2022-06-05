@@ -1,19 +1,3 @@
-<div 
-align="center"
-style="display: flex; 
-flex-direction: row;
-gap: 10px">
-<img src="banner-1.png" width="400px">
-<img src="banner-2.png" width="400px">
-</div>
-
-<br>
-<div align="center" style="display: flex; flex-direction: row">
-   <img src="https://img.shields.io/github/languages/count/andersondev96/library-project?style=for-the-badge">
-    <img src="https://img.shields.io/github/repo-size/andersondev96/library-project?style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/andersondev96/library-project?color=blue&style=for-the-badge">
-</div>
-<br>
 
 <h1> Sistema de gerenciamento para biblioteca 📚</h1>
 <b> Índice </b>
