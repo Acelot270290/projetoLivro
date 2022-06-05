@@ -54,23 +54,6 @@
 </ul><br>
 </div>
 <div>
-<h2>🔨 Features</h2>
-<ul>
-<li>Melhorar o dashboard do sistema</li>
-<li>Melhorar a interface do sistema</li>
-<li>Melhorar pop-up de confirmação ao excluir</li>
-<li>Colocar modo dark na aplicação</li>
-<li>Permitir a ordenação das colunas na tabela</li>
-<li>Envio de e-mail ao realizar o empréstimo e realizar a sua devolução</li>
-<li>Permitir adicionar fotos dos livros e dos clientes</li>
-<li>Exibir fotos dos livros, clientes e usuários na tabela</li>
-<li>Permitir pagamento parcial da multa</li>
-<li>Validar os campos quando for editar informações</li>
-<li>Exibir nome dos livros e dos clientes no select de empréstimos, ao invés do ID.</li>
-<li>Utilizar o formato de data <code>'DD/MM/YYYY'</code> no dayPicker.</li>
-<li>Calcular automaticamente a data de devolução do livro</li>
-<li>Criar uma área ou modal específico para renovação do livro</li>
-</ul>
 <br>
 </div>
 <div>
